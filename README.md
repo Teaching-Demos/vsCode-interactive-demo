@@ -11,7 +11,7 @@ Act as a platform to demonstrate coding tips and tricks for Visual Studio Code.
 
 ## Starting the Demo
 1. Clone this repository 
-    - **Terminal Command:** `git clone https://github.com/Teaching-Demos/vsCode-interactive-demo.git`)
+    - **Terminal Command:** `git clone https://github.com/Teaching-Demos/vsCode-interactive-demo.git`
 2. CD into the cloned repository
     - **Terminal Command:** `cd vsCode-interactive-demo`
 3. Open repository in VS Code
