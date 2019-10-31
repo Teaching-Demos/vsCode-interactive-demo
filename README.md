@@ -1,6 +1,7 @@
 # VS Code Tips and Tricks - Interactive Demo
 ---
 ## By Erin Trainor, November 2019
+[Deployed Site](https://teaching-demos.github.io/vsCode-interactive-demo/)
 
 ## Description
 Coding is difficult enough without wasting time searching for typos and bugs. This VS Code tips and tricks demo will hopefully help prevent time-wasting bugs and let you spend more time writing code.
